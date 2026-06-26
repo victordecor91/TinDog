@@ -1,0 +1,30 @@
+{
+  "name": "TinDog - Rencontres pour animaux",
+  "short_name": "TinDog",
+  "description": "Trouvez le partenaire idéal pour votre chien ou chat. Swipe, match et connectez vos animaux !",
+  "start_url": "/TinDog/index.html",
+  "scope": "/TinDog/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#E8642A",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/E8642A/white?text=🐾",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/E8642A/white?text=🐾",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "social"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
